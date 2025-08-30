@@ -1,29 +1,49 @@
-# 🔐 Password Manager
+# 📂 getPass – Password Manager
 
-A secure and full-stack Password Manager built using the MERN stack — React for the frontend, Node.js & Express for the backend, and MongoDB for persistent encrypted storage.
+A simple **MERN-based Password Manager** that allows you to securely store, view, edit, and delete your passwords.  
+This project uses **React** for the frontend, **Express + Node.js** for the backend, and **MongoDB** for the database.
+
+---
+
+## 🚀 Features
+- Add new passwords with site, username, and password.
+- Edit and delete saved passwords.
+- Copy username, site, or password with one click.
+- Show/Hide password toggle.
+- Toast notifications for actions.
+- Persists data in MongoDB.
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend**: React, TailwindCSS, react-toastify, uuid
+- **Backend**: Node.js, Express.js, MongoDB Native Driver
+- **Database**: MongoDB (local or Atlas)
+- **Icons**: LordIcon
+
+---
+
+## 📂 Project Structure
+```
+getPass/
+│── Backend/          # Express + MongoDB backend
+│   ├── server.js     # API routes
+│── Frontend/         # React frontend
+│   ├── src/
+│   │   ├── Manager.jsx   # Main Password Manager component
+│── README.md
+```
 
 ---
 
 
-## 📦 Tech Stack
-
-- **Frontend**: React,  TailwindCSS / CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB (Mongoose)
-- **Security**: bcrypt for password hashing, JWT for auth
-- **Deployment**: Netlify (frontend) & Render / Vercel (backend)
+## 📌 Future Improvements
+- User authentication (JWT-based login/signup).
+- Encrypt stored passwords.
+- Search & filter functionality.
+- Dark mode toggle.
 
 ---
 
-## ✨ Features
-
-- 🔒 Secure user authentication (JWT-based)
-- 📄 Add, view, and delete saved passwords
-- 🧠 Passwords stored in MongoDB (encrypted)
-- 📱 Responsive design for mobile and desktop
-- ✅ Form validation and user-friendly UI
-
----
-
-## 📁 Project Structure
-
+## 👨‍💻 Author
+Developed by **Jeel** ✨
