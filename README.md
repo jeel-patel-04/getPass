@@ -46,4 +46,4 @@ getPass/
 ---
 
 ## 👨‍💻 Author
-Developed by **Jeel** ✨
+Developed by **Jeel Patel** ✨
