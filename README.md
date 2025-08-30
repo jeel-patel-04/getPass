@@ -1,4 +1,4 @@
-# 📂 getPass – Password Manager
+#  🔐 getPass – Password Manager
 
 A simple **MERN-based Password Manager** that allows you to securely store, view, edit, and delete your passwords.  
 This project uses **React** for the frontend, **Express + Node.js** for the backend, and **MongoDB** for the database.
