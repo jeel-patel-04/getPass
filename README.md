@@ -50,7 +50,6 @@ getPass/
 
 ---
 
-## 🌐 Links
 - **Live Demo:** [https://getapass.netlify.app](https://getapass.netlify.app)  
 
 ---
