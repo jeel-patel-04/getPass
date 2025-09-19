@@ -36,7 +36,6 @@ getPass/
 └── tailwind.config.js # TailwindCSS configuration
 ```
 
----
 
 
 ---
